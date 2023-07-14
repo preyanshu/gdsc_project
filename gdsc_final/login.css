@@ -1,0 +1,258 @@
+.component-15-child13,
+.component-15-child14 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-lightsteelblue-200);
+}
+.component-15-child14 {
+  margin: 0;
+  height: 7.23%;
+  bottom: 92.77%;
+  background-color: var(--color-darkslateblue-100);
+}
+.company17 {
+  position: absolute;
+  height: 2.73%;
+  width: 6.84%;
+  top: 2.31%;
+  left: 16.8%;
+  font-weight: 600;
+  display: inline-block;
+}
+.instance-child21 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(rgba(34, 69, 160, 0), rgba(34, 69, 160, 0)),
+    linear-gradient(rgba(34, 69, 160, 0), rgba(34, 69, 160, 0)),
+    linear-gradient(rgba(34, 69, 160, 0), rgba(34, 69, 160, 0)), 0 0;
+}
+.component-12-inner7 {
+  position: absolute;
+  height: 88.46%;
+  width: 38.83%;
+  top: 0;
+  right: 61.17%;
+  bottom: 11.54%;
+  left: 0;
+}
+.help9 {
+  position: absolute;
+  height: 96.15%;
+  width: 96.12%;
+  top: 3.85%;
+  left: 3.88%;
+  font-weight: 600;
+  display: inline-block;
+}
+.component-128 {
+  position: absolute;
+  height: 3.08%;
+  width: 8.53%;
+  top: 2.31%;
+  right: 51.66%;
+  bottom: 94.61%;
+  left: 39.82%;
+}
+.component-10-inner7 {
+  position: absolute;
+  height: 88.46%;
+  width: 51.89%;
+  top: 0;
+  right: 48.11%;
+  bottom: 11.54%;
+  left: 0;
+}
+.safety9 {
+  position: absolute;
+  height: 96.15%;
+  width: 93.4%;
+  top: 3.85%;
+  left: 6.6%;
+  font-weight: 600;
+  display: inline-block;
+}
+.component-108 {
+  position: absolute;
+  height: 3.08%;
+  width: 7.04%;
+  top: 2.31%;
+  right: 60.6%;
+  bottom: 94.61%;
+  left: 32.37%;
+}
+.component-7-inner7 {
+  position: absolute;
+  height: 92%;
+  width: 97.25%;
+  top: 0;
+  right: 2.75%;
+  bottom: 8%;
+  left: 0;
+}
+.company18 {
+  position: absolute;
+  height: 100%;
+  width: 90.83%;
+  top: 0;
+  left: 9.17%;
+  font-weight: 600;
+  display: inline-block;
+}
+.component-78,
+.logo2-1-icon8 {
+  position: absolute;
+  height: 2.96%;
+  width: 9.52%;
+  top: 2.31%;
+  right: 68.05%;
+  bottom: 94.73%;
+  left: 22.43%;
+}
+.logo2-1-icon8 {
+  height: 5.46%;
+  width: 12.25%;
+  top: 0.73%;
+  right: 85.93%;
+  bottom: 93.82%;
+  left: 1.82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.component-158 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1208px;
+  height: 823.85px;
+  font-size: var(--font-size-sm);
+}
+.instance-child24 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+}
+.login-inner {
+  position: absolute;
+  top: 11px;
+  left: 988px;
+  width: 187px;
+  height: 33.22px;
+}
+.whats-your-phone {
+  position: absolute;
+  top: 132px;
+  left: 388px;
+  font-size: var(--font-size-5xl);
+  line-height: 119.02%;
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+  width: 400px;
+  height: 31px;
+}
+.login-child {
+  position: absolute;
+  top: 208px;
+  left: 388px;
+  border-radius: var(--br-xs);
+  width: 376px;
+  height: 50px;
+}
+.enter-your-mobile {
+  position: absolute;
+  top: 224px;
+  left: 398px;
+  line-height: 119.02%;
+  color: var(--color-gray-100);
+  display: inline-block;
+  width: 351px;
+  height: 23px;
+}
+.login-child1,
+.login-item {
+  position: absolute;
+  top: 359.5px;
+  left: 387.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 173px;
+  height: 1px;
+}
+.login-child1 {
+  left: 591.5px;
+}
+.or {
+  position: absolute;
+  top: 345px;
+  left: 567px;
+  line-height: 119.02%;
+  color: var(--color-gray-200);
+  display: inline-block;
+  width: 38px;
+  height: 26px;
+}
+.login-child2,
+.rectangle-icon {
+  position: absolute;
+  top: 284px;
+  left: 388px;
+  width: 376px;
+  height: 50px;
+}
+.login-child2 {
+  top: 385px;
+}
+.continue-with-google {
+  position: absolute;
+  top: 397px;
+  left: 481px;
+  line-height: 119.02%;
+  display: inline-block;
+  width: 221px;
+  height: 21px;
+}
+.google-logo-removebg-preview-1-icon {
+  position: absolute;
+  top: 394px;
+  left: 434px;
+  width: 34px;
+  height: 32px;
+  object-fit: cover;
+}
+.continue {
+  position: absolute;
+  top: 298px;
+  left: 528px;
+  line-height: 119.02%;
+  display: inline-block;
+  width: 175px;
+  height: 21px;
+}
+.login {
+  position: relative;
+  width: 100%;
+  height: 823.85px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}

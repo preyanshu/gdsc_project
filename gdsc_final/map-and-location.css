@@ -1,0 +1,430 @@
+.component-15-child11,
+.component-15-child12 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-lightsteelblue-200);
+}
+.component-15-child12 {
+  margin: 0;
+  height: 7.23%;
+  bottom: 92.77%;
+  background-color: var(--color-darkslateblue-100);
+}
+.company15 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 2.73%;
+  width: 6.84%;
+  top: 2.31%;
+  left: 16.8%;
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.instance-child18 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(rgba(34, 69, 160, 0), rgba(34, 69, 160, 0)),
+    linear-gradient(rgba(34, 69, 160, 0), rgba(34, 69, 160, 0)),
+    linear-gradient(rgba(34, 69, 160, 0), rgba(34, 69, 160, 0)), 0 0;
+}
+.component-12-inner6 {
+  position: absolute;
+  height: 88.46%;
+  width: 38.83%;
+  top: 0;
+  right: 61.17%;
+  bottom: 11.54%;
+  left: 0;
+}
+.help8 {
+  position: absolute;
+  height: 96.15%;
+  width: 96.12%;
+  top: 3.85%;
+  left: 3.88%;
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.component-127 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 3.08%;
+  width: 8.53%;
+  top: 2.31%;
+  right: 51.66%;
+  bottom: 94.61%;
+  left: 39.82%;
+}
+.component-10-inner6 {
+  position: absolute;
+  height: 88.46%;
+  width: 51.89%;
+  top: 0;
+  right: 48.11%;
+  bottom: 11.54%;
+  left: 0;
+}
+.safety8 {
+  position: absolute;
+  height: 96.15%;
+  width: 93.4%;
+  top: 3.85%;
+  left: 6.6%;
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.component-107 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 3.08%;
+  width: 7.04%;
+  top: 2.31%;
+  right: 60.6%;
+  bottom: 94.61%;
+  left: 32.37%;
+}
+.component-7-inner6 {
+  position: absolute;
+  height: 92%;
+  width: 97.25%;
+  top: 0;
+  right: 2.75%;
+  bottom: 8%;
+  left: 0;
+}
+.company16 {
+  position: absolute;
+  height: 100%;
+  width: 90.83%;
+  top: 0;
+  left: 9.17%;
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.component-77,
+.logo2-1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 2.96%;
+  width: 9.52%;
+  top: 2.31%;
+  right: 68.05%;
+  bottom: 94.73%;
+  left: 22.43%;
+}
+.logo2-1 {
+  height: 5.46%;
+  width: 12.25%;
+  top: 0.73%;
+  right: 85.93%;
+  bottom: 93.82%;
+  left: 1.82%;
+  background-image: url(./public/logo2-1@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.component-157,
+.logo2-11 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.logo2-11 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  height: 7.04%;
+  width: 15.81%;
+  top: 69.92%;
+  right: 73.01%;
+  bottom: 23.04%;
+  left: 11.18%;
+  border-radius: var(--br-mini);
+  background-image: url(./public/logo21@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.component-18-child {
+  position: absolute;
+  height: 138.66%;
+  width: 130.54%;
+  top: -29.41%;
+  right: -14.15%;
+  bottom: -9.24%;
+  left: -16.39%;
+  border-radius: var(--br-xl);
+  background-color: var(--color-darkslateblue-200);
+}
+.logo2-2-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  mix-blend-mode: soft-light;
+}
+.logo2-2 {
+  position: absolute;
+  height: 13.28%;
+  width: 44.88%;
+  top: 88.65%;
+  right: 28.12%;
+  bottom: -1.93%;
+  left: 27%;
+  border-radius: var(--br-mini);
+  display: none;
+  mix-blend-mode: hard-light;
+}
+.component-18-inner,
+.component-18-item {
+  position: absolute;
+  height: 9.22%;
+  width: 97.95%;
+  top: 19.86%;
+  right: 2.05%;
+  bottom: 70.92%;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gray-300);
+  border: 3px solid var(--color-darkslateblue-100);
+  box-sizing: border-box;
+}
+.component-18-inner {
+  top: 36.6%;
+  right: 1.86%;
+  bottom: 54.18%;
+  left: 0.19%;
+}
+.request-a-ride {
+  position: absolute;
+  height: 12.34%;
+  width: 84.96%;
+  top: 0;
+  left: 6.67%;
+  font-size: var(--font-size-29xl);
+  font-weight: 600;
+  color: var(--color-black);
+  display: inline-block;
+}
+.ellipse-div {
+  height: 2.7%;
+  width: 3.35%;
+  top: 23.26%;
+  right: 93.85%;
+  bottom: 74.04%;
+  left: 2.79%;
+  border-radius: 50%;
+  background-color: var(--color-gainsboro);
+  border: 2px solid var(--color-black);
+}
+.component-18-child1,
+.ellipse-div,
+.line-div {
+  position: absolute;
+  box-sizing: border-box;
+}
+.component-18-child1 {
+  height: 2.41%;
+  width: 3.35%;
+  top: 40%;
+  right: 93.85%;
+  bottom: 57.59%;
+  left: 2.79%;
+  background-color: var(--color-gainsboro);
+  border: 2px solid var(--color-black);
+}
+.line-div {
+  height: 12.67%;
+  width: 0.47%;
+  top: 26.36%;
+  right: 95.48%;
+  bottom: 60.97%;
+  left: 4.05%;
+  border-right: 2px solid var(--color-black);
+}
+.enter-destination,
+.enter-pickup-location {
+  border: 0;
+  font-family: var(--font-poppins);
+  font-size: var(--font-size-5xl);
+  background-color: transparent;
+  position: absolute;
+  height: 5.82%;
+  width: 61.27%;
+  top: 22.27%;
+  left: 9.5%;
+  background: linear-gradient(rgba(0, 0, 0, 0.42), rgba(0, 0, 0, 0.42)),
+    rgba(0, 0, 0, 0.42);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: left;
+  display: inline-block;
+}
+.enter-destination {
+  top: 39.01%;
+}
+.component-18-child2 {
+  position: absolute;
+  height: 0.33%;
+  width: 98.42%;
+  top: -0.16%;
+  right: 2.5%;
+  bottom: 99.84%;
+  left: -0.92%;
+  border-top: 2px solid var(--color-black);
+  box-sizing: border-box;
+  display: none;
+}
+.rectangle-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-darkslateblue-100);
+  position: absolute;
+  height: 13.04%;
+  width: 35.73%;
+  top: 54.89%;
+  right: 64.09%;
+  bottom: 32.08%;
+  left: 0.19%;
+  border-radius: var(--br-mini);
+}
+.date {
+  position: absolute;
+  height: 4.97%;
+  width: 25.64%;
+  top: 57.98%;
+  left: 8.21%;
+  display: inline-block;
+}
+.component-18-child3 {
+  position: absolute;
+  height: 13.72%;
+  width: 35.73%;
+  top: 54.2%;
+  right: 2.74%;
+  bottom: 32.08%;
+  left: 61.54%;
+  border-radius: var(--br-mini);
+  background-color: var(--color-darkslateblue-100);
+  display: none;
+}
+.time {
+  position: absolute;
+  height: 4.97%;
+  width: 25.64%;
+  top: 57.98%;
+  left: 69.91%;
+  display: inline-block;
+}
+.component-18 {
+  position: absolute;
+  height: 74.29%;
+  width: 35.35%;
+  top: 13.59%;
+  right: 61.09%;
+  bottom: 12.12%;
+  left: 3.56%;
+}
+.map-and-location-child {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-darkslateblue-100);
+  position: absolute;
+  height: 9.68%;
+  width: 12.67%;
+  top: 54.38%;
+  right: 66.06%;
+  bottom: 35.94%;
+  left: 21.27%;
+  border-radius: var(--br-mini);
+}
+.time1 {
+  position: absolute;
+  height: 3.7%;
+  width: 9.06%;
+  top: 56.69%;
+  left: 25.08%;
+  display: inline-block;
+}
+.map-and-location-item {
+  position: absolute;
+  height: 92.74%;
+  width: 60.18%;
+  top: 7.28%;
+  right: 0;
+  bottom: -0.02%;
+  left: 39.82%;
+  background-color: var(--color-gainsboro);
+}
+.map {
+  position: absolute;
+  height: 5.83%;
+  width: 13.41%;
+  top: 44.91%;
+  left: 64.4%;
+  color: var(--color-black);
+  display: inline-block;
+}
+.map-and-location {
+  position: relative;
+  width: 100%;
+  height: 823.85px;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}

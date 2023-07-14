@@ -1,0 +1,150 @@
+.component-15-inner,
+.rectangle-nav {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-lightsteelblue-200);
+}
+.rectangle-nav {
+  margin: 0;
+  height: 7.23%;
+  bottom: 92.77%;
+  background-color: var(--color-darkslateblue-100);
+}
+.company3 {
+  position: absolute;
+  height: 2.73%;
+  width: 6.84%;
+  top: 2.31%;
+  left: 16.8%;
+  font-weight: 600;
+  display: inline-block;
+}
+.rectangle-div {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(rgba(34, 69, 160, 0), rgba(34, 69, 160, 0)),
+    linear-gradient(rgba(34, 69, 160, 0), rgba(34, 69, 160, 0)),
+    linear-gradient(rgba(34, 69, 160, 0), rgba(34, 69, 160, 0)), 0 0;
+}
+.component-12-child {
+  position: absolute;
+  height: 88.46%;
+  width: 38.83%;
+  top: 0;
+  right: 61.17%;
+  bottom: 11.54%;
+  left: 0;
+}
+.help1 {
+  position: absolute;
+  height: 96.15%;
+  width: 96.12%;
+  top: 3.85%;
+  left: 3.88%;
+  font-weight: 600;
+  display: inline-block;
+}
+.component-121 {
+  position: absolute;
+  height: 3.08%;
+  width: 8.53%;
+  top: 2.31%;
+  right: 51.66%;
+  bottom: 94.61%;
+  left: 39.82%;
+}
+.component-10-child {
+  position: absolute;
+  height: 88.46%;
+  width: 51.89%;
+  top: 0;
+  right: 48.11%;
+  bottom: 11.54%;
+  left: 0;
+}
+.safety1 {
+  position: absolute;
+  height: 96.15%;
+  width: 93.4%;
+  top: 3.85%;
+  left: 6.6%;
+  font-weight: 600;
+  display: inline-block;
+}
+.component-101 {
+  position: absolute;
+  height: 3.08%;
+  width: 7.04%;
+  top: 2.31%;
+  right: 60.6%;
+  bottom: 94.61%;
+  left: 32.37%;
+}
+.component-7-child {
+  position: absolute;
+  height: 92%;
+  width: 97.25%;
+  top: 0;
+  right: 2.75%;
+  bottom: 8%;
+  left: 0;
+}
+.company4 {
+  position: absolute;
+  height: 100%;
+  width: 90.83%;
+  top: 0;
+  left: 9.17%;
+  font-weight: 600;
+  display: inline-block;
+}
+.component-71,
+.logo2-1-icon1 {
+  position: absolute;
+  height: 2.96%;
+  width: 9.52%;
+  top: 2.31%;
+  right: 68.05%;
+  bottom: 94.73%;
+  left: 22.43%;
+}
+.logo2-1-icon1 {
+  height: 5.46%;
+  width: 12.25%;
+  top: 0.73%;
+  right: 85.93%;
+  bottom: 93.82%;
+  left: 1.82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.component-151 {
+  align-self: stretch;
+  position: relative;
+  height: 823.85px;
+}
+.confirm {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}

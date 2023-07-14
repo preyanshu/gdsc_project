@@ -1,0 +1,187 @@
+.component-15-child7,
+.component-15-child8 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-lightsteelblue-200);
+}
+.component-15-child8 {
+  margin: 0;
+  height: 7.23%;
+  bottom: 92.77%;
+  background-color: var(--color-darkslateblue-100);
+}
+.company11 {
+  position: absolute;
+  height: 2.73%;
+  width: 6.84%;
+  top: 2.31%;
+  left: 16.8%;
+  font-weight: 600;
+  display: inline-block;
+}
+.instance-child12 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(rgba(34, 69, 160, 0), rgba(34, 69, 160, 0)),
+    linear-gradient(rgba(34, 69, 160, 0), rgba(34, 69, 160, 0)),
+    linear-gradient(rgba(34, 69, 160, 0), rgba(34, 69, 160, 0)), 0 0;
+}
+.component-12-inner4 {
+  position: absolute;
+  height: 88.46%;
+  width: 38.83%;
+  top: 0;
+  right: 61.17%;
+  bottom: 11.54%;
+  left: 0;
+}
+.help6 {
+  position: absolute;
+  height: 96.15%;
+  width: 96.12%;
+  top: 3.85%;
+  left: 3.88%;
+  font-weight: 600;
+  display: inline-block;
+}
+.component-125 {
+  position: absolute;
+  height: 3.08%;
+  width: 8.53%;
+  top: 2.31%;
+  right: 51.66%;
+  bottom: 94.61%;
+  left: 39.82%;
+  cursor: pointer;
+}
+.component-10-inner4 {
+  position: absolute;
+  height: 88.46%;
+  width: 51.89%;
+  top: 0;
+  right: 48.11%;
+  bottom: 11.54%;
+  left: 0;
+}
+.safety5 {
+  position: absolute;
+  height: 96.15%;
+  width: 93.4%;
+  top: 3.85%;
+  left: 6.6%;
+  font-weight: 600;
+  display: inline-block;
+}
+.component-105 {
+  position: absolute;
+  height: 3.08%;
+  width: 7.04%;
+  top: 2.31%;
+  right: 60.6%;
+  bottom: 94.61%;
+  left: 32.37%;
+  cursor: pointer;
+}
+.component-7-inner4 {
+  position: absolute;
+  height: 92%;
+  width: 97.25%;
+  top: 0;
+  right: 2.75%;
+  bottom: 8%;
+  left: 0;
+}
+.company12 {
+  position: absolute;
+  height: 100%;
+  width: 90.83%;
+  top: 0;
+  left: 9.17%;
+  font-weight: 600;
+  display: inline-block;
+}
+.component-75 {
+  position: absolute;
+  height: 2.96%;
+  width: 9.52%;
+  top: 2.31%;
+  right: 68.05%;
+  bottom: 94.73%;
+  left: 22.43%;
+  cursor: pointer;
+}
+.logo2-1-icon5 {
+  position: absolute;
+  height: 5.46%;
+  width: 12.25%;
+  top: 0.73%;
+  right: 85.93%;
+  bottom: 93.82%;
+  left: 1.82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.component-155 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.choose-your-drive1 {
+  position: absolute;
+  height: 7.77%;
+  width: 31.13%;
+  top: 14.57%;
+  left: 32.95%;
+  font-size: var(--font-size-17xl);
+  font-weight: 600;
+  color: var(--color-black);
+  display: inline-block;
+}
+.choose-your-drive-child {
+  position: absolute;
+  height: 78.17%;
+  width: 100%;
+  top: 21.85%;
+  right: 0;
+  bottom: -0.02%;
+  left: 0;
+  background-color: var(--color-darkslateblue-300);
+}
+.choose-your-drive-item {
+  position: absolute;
+  height: 9.59%;
+  width: 100%;
+  top: 32.04%;
+  right: 0;
+  bottom: 58.37%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.choose-your-drive {
+  position: relative;
+  width: 100%;
+  height: 823.85px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}

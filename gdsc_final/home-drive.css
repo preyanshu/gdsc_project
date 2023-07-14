@@ -1,0 +1,674 @@
+.component-4-child,
+.instance-child36 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+}
+.component-4-child {
+  margin: 0;
+  height: 4.24%;
+  bottom: 95.76%;
+  background-color: var(--color-darkslateblue-100);
+}
+.instance-child36 {
+  height: 100%;
+  bottom: 0;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(#112966, #112966),
+    linear-gradient(#112966, #112966), linear-gradient(#112966, #112966),
+    #112966;
+}
+.component-1-inner {
+  position: absolute;
+  height: 92%;
+  width: 97.25%;
+  top: 0;
+  right: 2.75%;
+  bottom: 8%;
+  left: 0;
+}
+.company23 {
+  position: absolute;
+  height: 100%;
+  width: 90.83%;
+  top: 0;
+  left: 9.17%;
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.component-1,
+.component-5 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 1.74%;
+  width: 9.52%;
+  top: 1.39%;
+  right: 64.97%;
+  bottom: 96.88%;
+  left: 25.51%;
+}
+.component-5 {
+  height: 1.6%;
+  width: 6.21%;
+  right: 75.83%;
+  bottom: 97.01%;
+  left: 17.96%;
+}
+.component-2-child {
+  position: absolute;
+  height: 88.46%;
+  width: 92.94%;
+  top: -0.35%;
+  right: 16.47%;
+  bottom: 11.89%;
+  left: -9.41%;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(#112966, #112966),
+    linear-gradient(#112966, #112966), linear-gradient(#112966, #112966),
+    #112966;
+}
+.safety12 {
+  position: absolute;
+  height: 96.15%;
+  width: 93.4%;
+  top: 3.85%;
+  left: 6.6%;
+  font-weight: 600;
+  display: inline-block;
+}
+.component-2 {
+  position: absolute;
+  height: 1.81%;
+  width: 7.04%;
+  top: 1.39%;
+  right: 57.12%;
+  bottom: 96.81%;
+  left: 35.84%;
+  cursor: pointer;
+}
+.component-3-inner {
+  position: absolute;
+  height: 88.46%;
+  width: 38.83%;
+  top: 0;
+  right: 61.17%;
+  bottom: 11.54%;
+  left: 0;
+}
+.help12 {
+  position: absolute;
+  height: 96.15%;
+  width: 96.12%;
+  top: 3.85%;
+  left: 3.88%;
+  font-weight: 600;
+  display: inline-block;
+}
+.component-3 {
+  position: absolute;
+  height: 1.81%;
+  width: 8.53%;
+  top: 1.39%;
+  right: 47.93%;
+  bottom: 96.81%;
+  left: 43.54%;
+  cursor: pointer;
+}
+.component-4-item {
+  position: absolute;
+  height: 0.14%;
+  width: 1.14%;
+  top: 2.43%;
+  right: 90.76%;
+  bottom: 97.43%;
+  left: 8.1%;
+  background-color: var(--color-cadetblue);
+}
+.component-4-inner {
+  position: absolute;
+  height: 54.18%;
+  width: 100%;
+  top: 54.25%;
+  right: 0;
+  bottom: -8.43%;
+  left: 0;
+  background: linear-gradient(
+    113.78deg,
+    rgba(17, 41, 102, 0.92),
+    rgba(17, 41, 102, 0.78) 33.12%,
+    rgba(17, 41, 102, 0.78) 57.09%,
+    rgba(17, 41, 102, 0.63) 82.76%
+  );
+}
+.logo2-1-icon9 {
+  position: absolute;
+  height: 3.19%;
+  width: 12.25%;
+  top: 0.42%;
+  right: 85.68%;
+  bottom: 96.39%;
+  left: 2.07%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.component-4-child1,
+.component-4-child2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-darkslateblue-100);
+  position: absolute;
+  height: 2.92%;
+  width: 18.65%;
+  top: 95.85%;
+  right: 78.29%;
+  bottom: 1.23%;
+  left: 3.06%;
+  border-radius: var(--br-xl);
+}
+.component-4-child2 {
+  background-color: var(--color-white);
+  right: 57.59%;
+  left: 23.76%;
+}
+.sign-up-to,
+.sign-up-to1 {
+  position: absolute;
+  height: 1.46%;
+  width: 12.13%;
+  top: 96.64%;
+  left: 8.03%;
+  font-weight: 600;
+  display: inline-block;
+}
+.sign-up-to1 {
+  height: 1.25%;
+  width: 12.81%;
+  left: 28.39%;
+  color: var(--color-black);
+}
+.blank-line {
+  display: block;
+}
+.introducing {
+  font-weight: 500;
+}
+.cabzee-in-nit {
+  color: var(--color-palegoldenrod);
+}
+.introducing-cabzee-in-container {
+  margin: 0;
+  position: absolute;
+  height: 25.94%;
+  width: 53.23%;
+  top: 62.15%;
+  left: 3.06%;
+  font-size: var(--font-size-7xl);
+  display: inline-block;
+  color: var(--color-gainsboro);
+}
+.instance-child39 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+}
+.component-4-inner1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 2.36%;
+  width: 15.48%;
+  top: 1.11%;
+  right: 2.81%;
+  bottom: 96.53%;
+  left: 81.71%;
+}
+.component,
+.component-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.component-child {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(rgba(34, 69, 160, 0), rgba(34, 69, 160, 0)),
+    linear-gradient(rgba(34, 69, 160, 0), rgba(34, 69, 160, 0)),
+    linear-gradient(rgba(34, 69, 160, 0), rgba(34, 69, 160, 0)), 0 0;
+}
+.component {
+  height: 88.46%;
+  width: 38.83%;
+  right: 61.17%;
+  bottom: 11.54%;
+  display: none;
+}
+.help13 {
+  position: absolute;
+  height: 96.15%;
+  width: 96.12%;
+  top: 3.85%;
+  left: 3.88%;
+  line-height: 119.02%;
+  font-weight: 600;
+  display: inline-block;
+}
+.component-42 {
+  position: absolute;
+  height: 2.01%;
+  width: 10.34%;
+  top: 1.32%;
+  right: 3.98%;
+  bottom: 96.67%;
+  left: 85.68%;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+}
+.road-removebg-preview-1-icon,
+.taxi-removebg-preview-1-icon {
+  position: absolute;
+  top: 0;
+  right: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.road-removebg-preview-1-icon {
+  height: 99.71%;
+  width: 99.84%;
+  bottom: 0.29%;
+  left: 0.17%;
+  mix-blend-mode: hard-light;
+}
+.taxi-removebg-preview-1-icon {
+  height: 100%;
+  width: 100%;
+  bottom: 0;
+  left: 0;
+}
+.taxi-removebg-preview-2 {
+  position: absolute;
+  height: 49.71%;
+  width: 45.45%;
+  top: 33.65%;
+  right: 10.07%;
+  bottom: 16.64%;
+  left: 44.48%;
+  transform: rotate(-5.64deg);
+  transform-origin: 0 0;
+}
+.logo2-1-icon10 {
+  position: absolute;
+  height: 8.99%;
+  width: 22.48%;
+  top: 33.34%;
+  right: 20.23%;
+  bottom: 57.67%;
+  left: 57.3%;
+  border-radius: var(--br-mini);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.cabs1-1-icon,
+.component-6 {
+  position: absolute;
+  height: 27.64%;
+  width: 42.88%;
+  top: 64.71%;
+  right: 0.83%;
+  bottom: 7.65%;
+  left: 56.29%;
+}
+.cabs1-1-icon {
+  height: 50.23%;
+  width: 100%;
+  top: 4.21%;
+  right: 0;
+  bottom: 45.56%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.your-destination-our {
+  margin: 0;
+  position: absolute;
+  height: 30.74%;
+  width: 72.68%;
+  top: 15.01%;
+  left: 10.51%;
+  font-size: var(--font-size-77xl);
+  font-weight: 400;
+  font-family: var(--font-poller-one);
+  display: inline-block;
+}
+.logo2-2-icon3 {
+  position: absolute;
+  height: 5.27%;
+  width: 19.45%;
+  top: 45.75%;
+  right: 41.06%;
+  bottom: 48.98%;
+  left: 39.49%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  mix-blend-mode: hard-light;
+}
+.component-41,
+.frame-div {
+  position: relative;
+  flex-shrink: 0;
+}
+.component-41 {
+  align-self: stretch;
+  background-color: var(--color-cornflowerblue-100);
+  height: 1519px;
+  overflow-x: auto;
+  display: none;
+}
+.frame-div {
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.component-4-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-lightsteelblue-100);
+  width: 1208px;
+  height: 3826px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-386xl);
+}
+.home-drive-child {
+  margin: 0;
+  height: 1.68%;
+  top: 0;
+  bottom: 98.32%;
+  background-color: var(--color-darkslateblue-100);
+}
+.cabs1-1-icon1,
+.home-drive-child,
+.home-drive-item {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+}
+.cabs1-1-icon1 {
+  height: 19.94%;
+  top: 1.67%;
+  bottom: 78.38%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.home-drive-item {
+  height: 21.51%;
+  top: 21.62%;
+  bottom: 56.87%;
+  background: linear-gradient(
+    113.78deg,
+    rgba(17, 41, 102, 0.92),
+    rgba(17, 41, 102, 0.78) 33.12%,
+    rgba(17, 41, 102, 0.78) 57.09%,
+    rgba(17, 41, 102, 0.63) 82.76%
+  );
+}
+.introducing-cabzee-in-container1 {
+  margin: 0;
+  position: absolute;
+  height: 10.3%;
+  width: 53.23%;
+  top: 24.99%;
+  left: 6.21%;
+  font-size: var(--font-size-7xl);
+  display: inline-block;
+  color: var(--color-gainsboro);
+}
+.logo2-1-icon11,
+.road-removebg-preview-1-icon1,
+.taxi-removebg-preview-1-icon1 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.road-removebg-preview-1-icon1 {
+  height: 101.91%;
+  width: 101.54%;
+  top: 0;
+  right: -0.77%;
+  bottom: -1.91%;
+  left: -0.77%;
+  mix-blend-mode: hard-light;
+}
+.logo2-1-icon11,
+.taxi-removebg-preview-1-icon1 {
+  height: 110.72%;
+  width: 106.98%;
+  top: -11.08%;
+  right: -6.98%;
+  bottom: 0.36%;
+  left: 0;
+}
+.logo2-1-icon11 {
+  height: 10.99%;
+  width: 22.52%;
+  top: 30.98%;
+  right: 19.96%;
+  bottom: 58.03%;
+  left: 57.53%;
+  border-radius: var(--br-mini);
+}
+.component-61 {
+  position: absolute;
+  height: 10.97%;
+  width: 42.88%;
+  top: 24.99%;
+  right: 2.98%;
+  bottom: 64.04%;
+  left: 54.14%;
+}
+.home-drive-child1,
+.home-drive-inner {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-darkslateblue-100);
+  position: absolute;
+  height: 1.16%;
+  width: 18.65%;
+  top: 37.58%;
+  right: 75.14%;
+  bottom: 61.26%;
+  left: 6.21%;
+  border-radius: var(--br-xl);
+}
+.home-drive-child1 {
+  background-color: var(--color-white);
+  right: 54.11%;
+  left: 27.24%;
+}
+.sign-up-to2,
+.sign-up-to3 {
+  position: absolute;
+  height: 0.58%;
+  width: 12.13%;
+  top: 37.87%;
+  left: 11.34%;
+  font-weight: 600;
+  display: inline-block;
+}
+.sign-up-to3 {
+  height: 0.5%;
+  width: 12.81%;
+  left: 31.71%;
+  color: var(--color-black);
+}
+.home-drive-child2 {
+  position: absolute;
+  top: 1650px;
+  left: 0;
+  background-color: rgba(44, 56, 86, 0.61);
+  width: 1208px;
+  height: 352px;
+}
+.make-every-mile {
+  margin: 0;
+}
+.make-every-mile-container {
+  position: absolute;
+  top: 1742px;
+  left: 137px;
+  font-size: var(--font-size-29xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 907px;
+  height: 171px;
+}
+.logo2-14 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 1.17%;
+  width: 12.25%;
+  top: 0.26%;
+  right: 84.44%;
+  bottom: 98.56%;
+  left: 3.31%;
+  background-image: url(./public/logo2-1@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.company25,
+.home {
+  position: absolute;
+  height: 0.58%;
+  width: 4.55%;
+  top: 0.63%;
+  left: 17.47%;
+  font-weight: 600;
+  display: inline-block;
+}
+.company25 {
+  height: 100%;
+  width: 90.83%;
+  top: 0;
+  left: 9.17%;
+}
+.component-711,
+.safety13 {
+  position: absolute;
+  height: 0.64%;
+  top: 0.63%;
+}
+.component-711 {
+  width: 9.52%;
+  right: 67.8%;
+  bottom: 98.73%;
+  left: 22.68%;
+}
+.safety13 {
+  width: 6.57%;
+  left: 32.2%;
+  font-weight: 600;
+  display: inline-block;
+  cursor: pointer;
+}
+.component-1211 {
+  position: absolute;
+  height: 0.66%;
+  width: 8.53%;
+  top: 0.63%;
+  right: 53.31%;
+  bottom: 98.71%;
+  left: 38.16%;
+}
+.home-drive-inner1 {
+  position: absolute;
+  top: 16px;
+  left: 1004px;
+  width: 187px;
+  height: 33.22px;
+}
+.home-drive-child3 {
+  position: absolute;
+  top: 3275px;
+  left: 0;
+  background-color: var(--color-darkslateblue-100);
+  width: 1208px;
+  height: 551px;
+}
+.your-destination-our1 {
+  margin: 0;
+  position: absolute;
+  height: 12.21%;
+  width: 72.68%;
+  top: 6.53%;
+  left: 13.74%;
+  font-size: var(--font-size-77xl);
+  font-weight: 400;
+  font-family: var(--font-poller-one);
+  display: inline-block;
+}
+.logo2-3-icon {
+  position: absolute;
+  height: 2.3%;
+  width: 20.12%;
+  top: 18.74%;
+  right: 38.74%;
+  bottom: 78.96%;
+  left: 41.14%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  mix-blend-mode: hard-light;
+}
+.home-drive {
+  position: relative;
+  width: 100%;
+  height: 3826px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}

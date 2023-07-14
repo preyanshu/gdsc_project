@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-poller-one: "Poller One";
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --font-size-29xl: 48px;
+  --font-size-17xl: 36px;
+  --font-size-5xl: 24px;
+  --font-size-xl: 20px;
+  --font-size-77xl: 96px;
+  --font-size-7xl: 26px;
+  --font-size-21xl: 40px;
+
+  /* Colors */
+  --color-gray-100: rgba(0, 0, 0, 0.31);
+  --color-gray-200: rgba(0, 0, 0, 0.75);
+  --color-gray-300: rgba(255, 255, 255, 0.72);
+  --color-cornflowerblue-100: rgba(126, 163, 236, 0);
+  --color-darkslateblue-100: #112966;
+  --color-darkslateblue-200: rgba(17, 41, 102, 0);
+  --color-darkslateblue-300: rgba(17, 41, 102, 0.83);
+  --color-white: #fff;
+  --color-lightsteelblue-100: #bdd4ff;
+  --color-lightsteelblue-200: #bbd1fd;
+  --color-black: #000;
+  --color-gainsboro: #d9d9d9;
+  --color-palegoldenrod: #c1d097;
+  --color-cadetblue: #7fa29e;
+
+  /* Gaps */
+  --gap-386xl: 405px;
+
+  /* border radiuses */
+  --br-3xs: 10px;
+  --br-mini: 15px;
+  --br-xl: 20px;
+  --br-xs: 12px;
+}

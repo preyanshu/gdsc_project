@@ -1,0 +1,356 @@
+.component-15-child15,
+.component-15-child16 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-lightsteelblue-200);
+}
+.component-15-child16 {
+  margin: 0;
+  height: 7.23%;
+  bottom: 92.77%;
+  background-color: var(--color-darkslateblue-100);
+}
+.company19 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 2.73%;
+  width: 6.84%;
+  top: 2.31%;
+  left: 16.8%;
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.instance-child25 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background: linear-gradient(rgba(34, 69, 160, 0), rgba(34, 69, 160, 0)),
+    linear-gradient(rgba(34, 69, 160, 0), rgba(34, 69, 160, 0)),
+    linear-gradient(rgba(34, 69, 160, 0), rgba(34, 69, 160, 0)), 0 0;
+}
+.component-12-inner8 {
+  position: absolute;
+  height: 88.46%;
+  width: 38.83%;
+  top: 0;
+  right: 61.17%;
+  bottom: 11.54%;
+  left: 0;
+}
+.help10 {
+  position: absolute;
+  height: 96.15%;
+  width: 96.12%;
+  top: 3.85%;
+  left: 3.88%;
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.component-129 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 3.08%;
+  width: 8.53%;
+  top: 2.31%;
+  right: 51.66%;
+  bottom: 94.61%;
+  left: 39.82%;
+}
+.component-10-inner8 {
+  position: absolute;
+  height: 88.46%;
+  width: 51.89%;
+  top: 0;
+  right: 48.11%;
+  bottom: 11.54%;
+  left: 0;
+}
+.safety10 {
+  position: absolute;
+  height: 96.15%;
+  width: 93.4%;
+  top: 3.85%;
+  left: 6.6%;
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.component-109 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 3.08%;
+  width: 7.04%;
+  top: 2.31%;
+  right: 60.6%;
+  bottom: 94.61%;
+  left: 32.37%;
+}
+.component-7-inner8 {
+  position: absolute;
+  height: 92%;
+  width: 97.25%;
+  top: 0;
+  right: 2.75%;
+  bottom: 8%;
+  left: 0;
+}
+.company20 {
+  position: absolute;
+  height: 100%;
+  width: 90.83%;
+  top: 0;
+  left: 9.17%;
+  font-size: var(--font-size-sm);
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+}
+.component-79,
+.logo2-12 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  height: 2.96%;
+  width: 9.52%;
+  top: 2.31%;
+  right: 68.05%;
+  bottom: 94.73%;
+  left: 22.43%;
+}
+.logo2-12 {
+  height: 5.46%;
+  width: 12.25%;
+  top: 0.73%;
+  right: 85.93%;
+  bottom: 93.82%;
+  left: 1.82%;
+  background-image: url(./public/logo2-1@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.component-159,
+.instance-child28 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1208px;
+  height: 823.85px;
+}
+.instance-child28 {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-white);
+}
+.sign-in-to-ride-inner {
+  position: absolute;
+  top: 11px;
+  left: 988px;
+  width: 187px;
+  height: 33.22px;
+}
+.whats-your-phone1 {
+  position: absolute;
+  top: 132px;
+  left: 388px;
+  font-size: var(--font-size-5xl);
+  line-height: 119.02%;
+  font-weight: 500;
+  color: var(--color-black);
+  display: inline-block;
+  width: 400px;
+  height: 31px;
+}
+.sign-in-to-ride-child {
+  position: absolute;
+  top: 208px;
+  left: 388px;
+  border-radius: var(--br-xs);
+  width: 376px;
+  height: 50px;
+}
+.enter-your-mobile1 {
+  border: 0;
+  font-family: var(--font-poppins);
+  font-size: var(--font-size-xl);
+  background-color: transparent;
+  position: absolute;
+  top: 224px;
+  left: 398px;
+  line-height: 119.02%;
+  color: var(--color-gray-100);
+  text-align: left;
+  display: inline-block;
+  width: 351px;
+  height: 23px;
+}
+.sign-in-to-ride-child1,
+.sign-in-to-ride-item {
+  position: absolute;
+  top: 359.5px;
+  left: 387.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 173px;
+  height: 1px;
+}
+.sign-in-to-ride-child1 {
+  left: 591.5px;
+}
+.or1 {
+  position: absolute;
+  top: 345px;
+  left: 567px;
+  line-height: 119.02%;
+  color: var(--color-gray-200);
+  display: inline-block;
+  width: 38px;
+  height: 26px;
+}
+.instance-child29 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-xs);
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.sign-in-to-ride-inner1,
+.sign-in-to-ride-inner2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 284px;
+  left: 388px;
+  width: 376px;
+  height: 50px;
+}
+.sign-in-to-ride-inner2 {
+  top: 385px;
+}
+.continue-with-google1 {
+  position: absolute;
+  top: 397px;
+  left: 481px;
+  line-height: 119.02%;
+  display: inline-block;
+  width: 221px;
+  height: 21px;
+}
+.google-logo-removebg-preview-1-icon1 {
+  position: absolute;
+  top: 394px;
+  left: 434px;
+  width: 34px;
+  height: 32px;
+  object-fit: cover;
+}
+.continue1 {
+  position: absolute;
+  top: 298px;
+  left: 528px;
+  line-height: 119.02%;
+  display: inline-block;
+  width: 175px;
+  height: 21px;
+}
+.sign-in-to-ride-child2 {
+  position: absolute;
+  top: 547px;
+  left: 0;
+  background: linear-gradient(
+    266.49deg,
+    rgba(17, 41, 102, 0.69) 6.25%,
+    rgba(17, 41, 102, 0.69) 35.76%,
+    rgba(17, 41, 102, 0.57) 63.63%,
+    rgba(17, 41, 102, 0.49)
+  );
+  width: 1208px;
+  height: 277px;
+}
+.ride-with-cabzee {
+  position: absolute;
+  top: 603px;
+  left: 364px;
+  font-size: var(--font-size-17xl);
+  font-weight: 600;
+  display: inline-block;
+  width: 551px;
+  height: 92px;
+}
+.logo2-2-icon1 {
+  position: absolute;
+  height: 114.29%;
+  width: 104.57%;
+  top: 0;
+  right: -2.29%;
+  bottom: -14.29%;
+  left: -2.29%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  mix-blend-mode: soft-light;
+}
+.logo2-21 {
+  position: absolute;
+  top: 732px;
+  left: 491px;
+  width: 175px;
+  height: 56px;
+  mix-blend-mode: hard-light;
+}
+.sign-in-to-ride {
+  margin: 0;
+  position: relative;
+  width: 100%;
+  height: 823.85px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}
