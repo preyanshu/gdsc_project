@@ -1,0 +1,318 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+img{
+  display: block;
+width: 100%;
+height: auto;
+position: relative;
+
+/* background-size: cover;
+background-repeat: no-repeat; */
+}
+.next{
+  display: flex;
+width: 100vw;
+height: 25vw;
+min-height: 700px;
+aspect-ratio: 1.7;
+/* background: linear-gradient( 113.78deg, rgba(17, 41, 102, 0.92), rgba(17, 41, 102, 0.78) 33.12%, rgba(17, 41, 102, 0.78) 57.09%, rgba(17, 41, 102, 0.63) 82.76% ); */
+align-items: center;
+justify-content: center;
+flex-wrap: wrap;
+
+        }
+
+
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.navbar{
+  background: linear-gradient( 113.78deg, rgba(17, 41, 102, 0.92), rgba(17, 41, 102, 0.78) 33.12%, rgba(17, 41, 102, 0.78) 57.09%, rgba(17, 41, 102, 0.63) 82.76% );
+
+}
+.text{
+ 
+  width: 100vw;
+height: auto;
+aspect-ratio: 1.6;
+background-image: url("../public/cabs1-11@3x.png");
+background-size: cover;
+display: flex;
+align-items: center;
+
+}
+img{
+  height: 73px;
+  width: 200px;
+  margin-top: 20px;
+  opacity: 0.4;
+  
+}
+.flex{
+  display: flex;
+  /* background-color: red; */
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* margin-top: px; */
+}
+.del{
+ /* background-color: #61dafb; */
+ font-family: 'Times New Roman', Times, serif;
+ margin-bottom: 30px;
+ color: white;
+ margin-top: 60px;
+ 
+ 
+}
+.page2{
+  
+  width: 100vw;
+  height: auto;
+  
+  aspect-ratio: 1.3;
+  background: linear-gradient( 113.78deg, rgba(17, 41, 102, 0.92), rgba(17, 41, 102, 0.78) 33.12%, rgba(17, 41, 102, 0.78) 57.09%, rgba(17, 41, 102, 0.63) 82.76% );
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+ 
+  
+}
+.btn2{
+  height: fit-content;
+  min-height: 40px;
+  width: 15vw;
+  min-width: 90px;
+
+}
+.page3{
+  width: 100vw;
+  height: auto;
+  max-height: 600px;
+  
+  aspect-ratio: 1.7;
+ background-color: rgba(64, 81, 122, 0.61);
+ font-size: xx-large;
+ color: aliceblue;
+ justify-content: center;
+ align-items: center;
+ padding: 10px;
+
+  
+}
+h3{
+  font-size: x-large;
+
+}
+body{
+  overflow-x: hidden;
+}
+.margin{
+  margin-top: 5px;
+  margin-bottom: 25px;
+  
+}
+.ex{
+  margin-bottom: 15px;
+}
+.flex{
+  flex-wrap: wrap-reverse;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  /* margin-top: 56px; */
+  background-color: pink;
+}
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.left{
+  /* background-color: blue; */
+  height: 94vh;
+  width: 30vw;
+  background-color: #61dafb;
+}
+.right{
+  background-color: white;
+  height: 94vh;
+  width: 60vw;
+  position: relative;
+}
+#driverbtn{
+  width: 270px;
+}
+@media screen and (max-width: 800px) {
+   
+  .left{
+    height: 40vh;
+    width: 100vw;
+    
+  }
+  .right{
+    height: 65vh ;
+    width: 100vw;
+    
+  }
+  /* .label{
+    width: 100px;
+    background-color: #282c34;
+  } */
+  #date{
+    width: 32vw;
+    /* background-color: #282c34; */
+  }
+  #time{
+    width: 32vw;
+    /* background-color: #282c34; */
+  }
+ 
+
+}
+@media screen and (max-width: 400px) {
+   
+  .active{
+    width: 3rem;
+  }
+  
+  .nav-link{
+    width: 70px;
+    padding:3px
+  }
+  .margin{
+    width: 270px;
+
+  }
+  #driverbtn{
+    width: 240px;
+  }
+  #pills-tab{
+    margin-right: 0px;
+  }
+
+}
+@media screen and (max-width: 280px) {
+   
+  .active{
+    width: 3rem;
+  }
+  .tabs{
+    width: 260px;
+    margin: 0px;
+    padding: 0px;
+    margin-bottom: 10px;
+    margin-top: 5px;
+  }
+  
+  .nav-link{
+    width: 70px;
+    padding:3px
+  }
+  .margin{
+    width: 270px;
+
+  }
+  #driverbtn{
+    width: 240px;
+  }
+  #pills-tab{
+    margin-right: 0px;
+  }
+
+}
+
+.active{
+  width: 6rem;
+}
+.center{
+  align-items: center;
+  justify-content: center;
+  transition: 2s;
+}
+.nav-link{
+  transition: 0.4s;
+}
+.flex2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bc{
+  background-color: aquamarine;
+  height: 93% ;
+    width: 100%;
+    position: absolute;
+    top: 56px;
+    left: 0px;
+    overflow-y: auto;
+}
+.label{
+  width: 12vw;
+  min-width: 100px;
+}
+.body{
+  overflow-x: hidden;
+}
+.tabs{
+  margin-top: 10px;
+ 
+}
+.form{
+  position: relative;
+  margin-bottom: 55px;
+}
+.date{
+  right: 0px;
+  position: absolute;
+}
+.time{
+  left: 0px;
+  position: absolute;
+}
+.submit{
+  top: 150px;
+  position: absolute;
+}
+#testpage{
+  overflow-y: hidden;
+}
